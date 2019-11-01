@@ -1,3 +1,12 @@
+# 이미지 파일의 다양한 형식에 대한 기본 이해가 필요합니다.
+## 다음의 개념을 구글링으로 익힙니다.
+- 압축이미지 VS 비압축이미지
+- 비트맵 이미지
+- 이미지의 픽셀
+- 이미지 픽셀의 RGB란 무엇인가요?
+- jpg 이미지
+- png 이미지
+
 # 파이썬으로 이미지, 카메라를 다루기
 ## OpenCV 기초 배우기
 
@@ -27,12 +36,12 @@
 ~~~
 import cv2
 
-img_file = "./img/ato.jpg'
+img_file = "./img/ato.jpg"
 img = cv2.imread(img_file)
 img_gray = cv2.imread(img_file, 0)
 cv2.imshow("Ato1", img)
 cv2.imshow("Ato2", img_gray)
 
-cv2.WaitKey()
+cv2.waitKey()
 cv2.destroyAllWindows()
 ~~~
