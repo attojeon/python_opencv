@@ -12,11 +12,11 @@
 
 # 접속 화면
 드로이드 접속 전 화면
-[image](./droi1.jpg)
+![image](./droi1.jpg)
 - 드로이드 캠의 IP와 port번호를 잘 기억해야 한다.
 
 드로이드 접속 후 화면 
-[image](./droid2.jpg)
+![image](./droid2.jpg)
 - 접속자의 ip번호를 확인할 수 있다.
 
 
