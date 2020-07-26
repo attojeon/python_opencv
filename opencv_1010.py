@@ -4,11 +4,11 @@
 
 import cv2
 
-img_file = "./img/ancient.png"
-img = cv2.imread(img_file)
-img_gray = cv2.imread(img_file, 0)
-cv2.imshow("Ato1", img)
-cv2.imshow("Ato2", img_gray)
+img_file = "./res/king_of_diamonds2.png" 
+img = cv2.imread(img_file) 
+img_gray = cv2.imread(img_file, 0) 
+cv2.imshow("card-color", img) 
+cv2.imshow("card-gray", img_gray) 
 
-cv2.waitKey()
-cv2.destroyAllWindows()
+cv2.waitKey() 
+cv2.destroyAllWindows() 
