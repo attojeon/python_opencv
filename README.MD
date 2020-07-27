@@ -16,6 +16,16 @@
 - RGB : https://ko.wikipedia.org/wiki/RGB_%EA%B0%80%EC%82%B0%ED%98%BC%ED%95%A9
 - RGB 실험하기 : https://www.w3schools.com/colors/colors_rgb.asp
 
+### OpenCV 한국어 글들
+- 네이버 블로거
+https://m.blog.naver.com/PostList.nhn?blogId=samsjang&categoryNo=66&logCode=0&categoryName=OpenCV
+
+- 유튜버
+https://www.youtube.com/watch?v=0KCTvoMXHPE&list=PLwfJJiO20qkDue05S5MNhgYNnClMVlagN
+
+- 리더독
+https://opencv-python.readthedocs.io/en/latest/index.html
+
 # 파이썬으로 이미지, 카메라를 다루기
 ## OpenCV 기초 배우기
 
